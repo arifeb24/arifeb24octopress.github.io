@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[arifeb24 Octopress Blog]]></title>
+  <link href="http://arifeb24.github.io/atom.xml" rel="self"/>
+  <link href="http://arifeb24.github.io/"/>
+  <updated>2015-12-21T13:53:12+07:00</updated>
+  <id>http://arifeb24.github.io/</id>
+  <author>
+    <name><![CDATA[arifeb24]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Arifeb24 Octopress]]></title>
+    <link href="http://arifeb24.github.io/blog/2015/12/21/arifeb24-octopress/"/>
+    <updated>2015-12-21T11:49:07+07:00</updated>
+    <id>http://arifeb24.github.io/blog/2015/12/21/arifeb24-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
